@@ -10,7 +10,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Html" width="26px" src="https://www.freeiconspng.com/uploads/html5-icon-1.png" /> 
 <img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" /> 
-<img align="left" alt="Css" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnpPZ9OGyEP-oE9yydjzu_g6G6hM7M5EFqyA&usqp=CAU" /> 
+<img align="left" alt="ReactJs" width="26px" src="![image](https://user-images.githubusercontent.com/72088905/127433304-b5bb7670-f761-498b-a8d8-458ce14c14ee.png)" /> 
 
 ---
 

@@ -13,7 +13,7 @@
 
 ---
 
-### 📫 Contact me via:
+### 📫 Contact me:
 - EMAIL: hieudam442@gmail.com
-- FACEBOOK:
+- FACEBOOK: https://www.facebook.com/profile.php?id=100026604082646
 - PHONENUMBER:
